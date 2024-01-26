@@ -1,4 +1,4 @@
-# GNN_AIST_GCN_BCTx  
+# GNN_GCN_BCTx  
 ## Blockchain取引履歴をGCNに学習させNode classification実施：
 1. GCNのライブラリにロードするための前処理
 2. 乱数を用いてnodeの特徴量を付与（０～1の実数値）
